@@ -8,6 +8,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{D748ED8B-7772-471E-9164-48335DCF2F25}"
 	ProjectSection(SolutionItems) = preProject
 		global.json = global.json
+		Readme.md = Readme.md
 	EndProjectSection
 EndProject
 Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "SpiderTrapWebApplication", "src\SpiderTrapWebApplication\SpiderTrapWebApplication.xproj", "{152A4632-A894-4B83-B223-3EF9EF525E88}"
